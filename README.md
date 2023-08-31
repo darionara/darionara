@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🚀 I’m currently working on **Dare IT React Challenge - Savings-App**
-- 📘 I'm learning **React** and **Typescript**
-- ➡️ The next step is **Next.js**
+- 🚀 I’m currently working on **Movies-App**
+- 📘 I'm practicing **Next.js**, **Typescript** and **Tailwind** in one project 
